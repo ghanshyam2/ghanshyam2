@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshyam2&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshyam2" /> </p>
 
-- 🔭 I’m currently working on **Social Media Clone app**
+- 🔭 I’m currently working on **Social Media Clone app, E-Commerce clone in DRF**
 
-- 🌱 I’m currently learning **Django and Django Rest Framework**
+- 🌱 I’m currently learning **Django and Django Rest Framework Data Structure and Algorithms**
 
 - 👯 I’m looking to collaborate on **Social Media app**
 
